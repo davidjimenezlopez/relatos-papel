@@ -1,0 +1,24 @@
+# Tipo de cambio (elige uno):
+# feat: nueva funcionalidad
+# fix: corrección de errores  
+# docs: documentación
+# style: formato, estilos (sin cambios de lógica)
+# refactor: refactorización de código
+# test: agregar o corregir tests
+# chore: tareas de mantenimiento
+
+# Formato: tipo(alcance): descripción
+#
+# Ejemplo: feat(auth): agregar login con Google
+# Ejemplo: fix(api): corregir validación de usuarios
+# Ejemplo: docs(readme): actualizar instrucciones de instalación
+
+# Descripción del cambio (máximo 72 caracteres):
+
+
+# Descripción detallada (opcional):
+
+
+# Issues relacionados (opcional):
+# Closes #123
+# Related to #456

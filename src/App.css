@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.App h1 {
+  color: #333;
+  font-size: 24px;
+  margin: 20px 0;
+}
