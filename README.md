@@ -1,21 +1,22 @@
-# Relatos de Papel - React App
+# Relatos de Papel
 
-Aplicación React para gestionar y organizar relatos y cuentos personales.
+Proyecto Relatos de Papel.
 
-## Estructura del proyecto
+## Prerequisitos
 
-```
-relatos_papel/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── index.css
-├── package.json
-├── webpack.config.js
-└── .babelrc
+Antes de empezar, asegúrate de tener instalado:
+
+- **Node.js** (versión 16 o superior)
+  - Versión recomendada: 18.x o 20.x
+  - Descargar desde: https://nodejs.org/
+- **npm** (incluido con Node.js)
+  - Versión mínima: 8.x
+
+Para verificar que tienes las versiones correctas:
+
+```bash
+node --version
+npm --version
 ```
 
 ## Instalación
@@ -28,25 +29,15 @@ npm install
 
 ## Scripts disponibles
 
-- `npm start` o `npm run dev`: Inicia el servidor de desarrollo en http://localhost:3000
+- `npm start`: Inicia el servidor de desarrollo en http://localhost:3000
 - `npm run build`: Crea una versión optimizada para producción
-
-## Características
-
-- ✅ Interfaz temática de "papel" con colores cálidos
-- ✅ Agregar nuevos relatos
-- ✅ Ver lista de relatos guardados
-- ✅ Eliminar relatos individuales
-- ✅ Contador de relatos
-- ✅ Diseño responsive
-- ✅ Configuración manual de React sin frameworks
 
 ## Tecnologías utilizadas
 
 - React 18
 - Webpack 5
 - Babel
-- CSS con diseño temático
+- CSS básico
 
 ## Cómo empezar
 
@@ -54,4 +45,4 @@ npm install
 2. Ejecuta el proyecto: `npm start`
 3. Abre tu navegador en http://localhost:3000
 
-¡Comienza a escribir y organizar tus relatos de papel!
+El proyecto mostrará una página básica con "Home - Relatos de Papel".
